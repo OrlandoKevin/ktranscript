@@ -14,112 +14,276 @@
 00:01:55 - 00:01:58:  ce que vous pensez est ce que vous connaissez pour la plupart où vous souhaitez qu'on fasse un
 00:01:58 - 00:02:07:  tour de table rapide ouais allez super donc nom et institution ou voilà métier super christelle
 00:02:07 - 00:02:09:  est ce que je peux vous laisser commencer par le tour de table
-00:02:09 - 00:02:12:  durée
-00:02:12 - 00:02:18:  al boss
-00:02:18 - 00:02:25:  dreal division gestion des droits de méditerranée à gâte portal chargée de
-00:02:25 - 00:02:29:  mission agriculture et l'angélite 2e au pays au long d'hoc et vignoble
-00:02:29 - 00:02:34:  dans l'ouest de l'hérault je vous ai ce mois d'alouc d'orchi
-00:02:34 - 00:02:45:  marie marie charlotte bousquet pdf hydro en pastor chambre d'acteurs de l'ordre
-00:02:45 - 00:02:53:  ans tous ces avaler each other
-00:02:54 - 00:02:57:  brceptre
-00:02:58 - 00:03:03:  au fence de vraiment château de l'astor
-00:03:03 - 00:03:05:  Christian Cahier, Réseau BELDE.
-00:03:06 - 00:03:08:  Bonjour à ceux qui ont été paris là ce matin.
-00:03:08 - 00:03:12:  Jamy Sanchez, administrateur de la Fédération Autoclère, située à Nipah.
-00:03:12 - 00:03:16:  Jad Sching, sur l'émission agriculture au parc naturel régional de la Narmogne.
-00:03:17 - 00:03:20:  Et à l'autre, responsable de la Fédération régionale.
-00:03:21 - 00:03:22:  Merci.
-00:03:22 - 00:03:23:  Merci.
-00:03:23 - 00:03:24:  Merci.
-00:03:33 - 00:03:35:  Laurent Jounin, Draf Occitanie.
-00:03:36 - 00:03:38:  Kevin Orlando, Inrae, Montpellier.
-00:03:40 - 00:03:43:  Nina Graveline, responsable du projet Talanois et économiste.
-00:03:45 - 00:03:46:  Super.
-00:03:46 - 00:03:47:  Maintenant, vous voyez l'écran.
-00:03:48 - 00:03:48:  C'est pas mal.
-00:03:50 - 00:03:54:  Ce que j'ai un peu dit par oral, on se donne 30 minutes pour accueil et introduction.
-00:03:54 - 00:03:56:  Je vais aller très vite, vu qu'on les a déjà grignotés.
+00:02:09 - 00:02:13:  air
+00:02:22 - 00:02:22:  un
+00:02:22 - 00:02:25:  appartement charge émission
+00:02:25 - 00:02:26:  k
+00:02:26 - 00:02:29:  la Féangé 2e au Pays au Languedoc et Vignoble,
+00:02:30 - 00:02:31:  dans l'Ouest de l'Hérault.
+00:02:32 - 00:02:32:  Jules Jules Sma.
+00:02:33 - 00:02:34:  Jadouk Dorchy.
+00:02:35 - 00:02:36:  Nicolas Soura et Merae.
+00:02:37 - 00:02:42:  Marie-Charlotte Bousquet, PDF Hydro.
+00:02:43 - 00:02:45:  Jean Bastor, Chambre d'acteur de l'Ordre,
+00:02:45 - 00:02:46:  je tiens, excusez, Marine Albert,
+00:02:46 - 00:02:47:  qui est venu.
+00:02:49 - 00:02:50:  Je suis en deux,
+00:02:50 - 00:02:51:  je suis en deux,
+00:02:51 - 00:02:52:  je suis en deux,
+00:02:52 - 00:02:52:  je suis en deux.
+00:02:52 - 00:02:53:  Je suis en deux.
+00:02:53 - 00:02:53:  Je suis en deux.
+00:02:53 - 00:02:54:  Je suis en deux.
+00:02:54 - 00:03:24:  J'ai l'impression que je suis en deux.
+00:03:24 - 00:03:25:  Je suis en deux.
+00:03:26 - 00:03:26:  Je suis en deux.
+00:03:26 - 00:03:27:  Je suis en deux.
+00:03:27 - 00:03:27:  Je suis en deux.
+00:03:29 - 00:03:29:  Catherine,
+00:03:29 - 00:03:32:  l'économiste d'Inrae à Montpellier.
+00:03:33 - 00:03:34:  Laurent Jounin,
+00:03:34 - 00:03:35:  Draf Occitanie.
+00:03:36 - 00:03:37:  Kevin Orlando,
+00:03:37 - 00:03:38:  Inrae à Montpellier.
+00:03:40 - 00:03:40:  Nina Gravelin,
+00:03:40 - 00:03:41:  Inrae,
+00:03:41 - 00:03:43:  responsable du projet Talanois et économiste.
+00:03:46 - 00:03:46:  Super.
+00:03:46 - 00:03:47:  Maintenant, vous voyez l'écran,
+00:03:47 - 00:03:48:  c'est pas mal.
+00:03:48 - 00:03:51:  Donc, ce que j'ai un peu dit par oral,
+00:03:51 - 00:03:54:  donc on se donne 30 minutes pour accueil introduction.
+00:03:54 - 00:03:55:  Je vais aller très vite,
+00:03:55 - 00:03:56:  vu qu'on les a déjà grignotés.
 00:03:57 - 00:04:00:  Un petit retour sur le travail de prospective.
-00:04:00 - 00:04:05:  Donc, pour ceux qui étaient là, c'est quelque chose qu'on a plutôt fait il y a plus d'un an en atelier.
-00:04:06 - 00:04:10:  Donc, revenir là-dessus, parce que nous, ça va nous servir d'entrer dans le modèle intégré.
-00:04:11 - 00:04:17:  Ensuite, on va se donner une heure pour partager le travail qu'on a fait lors des webinaires de préparation.
-00:04:17 - 00:04:23:  Donc, 10 minutes par domaine, 5 minutes de présentation rapide, soit par quelqu'un de l'équipe Talanois,
-00:04:23 - 00:04:27:  idéalement par quelqu'un d'entre vous, et 5 minutes pour rediscuter tous ensemble.
-00:04:27 - 00:04:30:  C'est-à-dire que, voilà, si vous avez des idées sur un autre domaine, ce sera le moment.
-00:04:31 - 00:04:35:  Et ensuite, on se redonnera une heure pour travailler par petits groupes et par domaine pour aller plus loin
+00:04:00 - 00:04:01:  Donc, pour ceux qui étaient là,
+00:04:01 - 00:04:03:  c'est quelque chose qu'on a plutôt fait
+00:04:03 - 00:04:05:  il y a plus d'un an en atelier.
+00:04:06 - 00:04:07:  Donc, revenir là-dessus,
+00:04:07 - 00:04:08:  parce que nous, ça va nous servir d'entrer
+00:04:08 - 00:04:10:  dans le modèle intégré.
+00:04:10 - 00:04:13:  Ensuite, on va se donner une heure
+00:04:13 - 00:04:14:  pour partager le travail qu'on a fait
+00:04:14 - 00:04:17:  lors des webinaires de préparation.
+00:04:17 - 00:04:19:  Donc, 10 minutes par domaine,
+00:04:19 - 00:04:21:  5 minutes de présentation rapide,
+00:04:21 - 00:04:23:  soit par quelqu'un de l'équipe Talanois,
+00:04:23 - 00:04:25:  idéalement par quelqu'un d'entre vous,
+00:04:25 - 00:04:27:  et 5 minutes pour rediscuter tous ensemble.
+00:04:27 - 00:04:28:  C'est-à-dire que, voilà,
+00:04:28 - 00:04:30:  si vous avez des idées sur un autre domaine,
+00:04:30 - 00:04:30:  ce sera le moment.
+00:04:31 - 00:04:32:  Et ensuite, on se redonnera une heure
+00:04:32 - 00:04:34:  pour travailler par petits groupes
+00:04:34 - 00:04:35:  et par domaine pour aller plus loin
 00:04:35 - 00:04:37:  par rapport à ce qu'on a dit dans les webinaires.
-00:04:38 - 00:04:40:  On verra, c'est assez hétérogène.
-00:04:40 - 00:04:44:  Les avancées, ça dépendait un petit peu des groupes jusqu'à où on est allé.
-00:04:44 - 00:04:50:  Mais dans tous, il y a encore largement de quoi travailler, notamment aller jusqu'à l'impact.
-00:04:50 - 00:05:06:  Donc, je ne vais pas représenter tout le projet Talanois parce que tout le monde le connaît ici.
-00:05:06 - 00:05:08:  Peut-être, oui, globalement.
-00:05:09 - 00:05:12:  En plus, Juliette en a reparlé ce matin pour ceux qui étaient là.
-00:05:12 - 00:05:14:  Donc, je vais...
+00:04:38 - 00:04:39:  On verra, c'est assez,
+00:04:40 - 00:04:41:  les hétérogènes, les avancées,
+00:04:41 - 00:04:43:  ça dépendait un petit peu des groupes
+00:04:43 - 00:04:44:  jusqu'à où on est allé.
+00:04:44 - 00:04:46:  Mais dans tous, il y a encore largement
+00:04:46 - 00:04:46:  de quoi travailler,
+00:04:47 - 00:04:50:  notamment aller jusqu'à l'impact.
+00:04:57 - 00:05:00:  Donc, je ne vais pas représenter
+00:05:00 - 00:05:04:  tout le projet Talanois
+00:05:04 - 00:05:06:  parce que tout le monde le connaît ici.
+00:05:06 - 00:05:08:  Peut-être, oui, globalement,
+00:05:08 - 00:05:11:  en plus, Juliette en a reparlé ce matin
+00:05:11 - 00:05:12:  pour ceux qui étaient là.
+00:05:12 - 00:05:13:  Donc, je vais...
 00:05:14 - 00:05:16:  Voilà.
-00:05:16 - 00:05:20:  Donc, peut-être juste un peu resituer les grands éléments.
-00:05:21 - 00:05:21:  Ah oui.
-00:05:21 - 00:05:23:  Alors, il y a un premier élément qui était la fin du projet.
-00:05:23 - 00:05:25:  En théorie, c'est juin 2025.
-00:05:25 - 00:05:27:  Mais on a demandé un décalage.
-00:05:27 - 00:05:31:  Donc, on espère avoir la fin de l'année 2025 pour finir proprement le travail.
-00:05:33 - 00:05:35:  Et puis, vous dire aussi que...
-00:05:35 - 00:05:40:  Enfin, l'équipe de recherche, on envisage de continuer à travailler sur le secteur.
+00:05:16 - 00:05:19:  Donc, peut-être juste un peu resituer
+00:05:19 - 00:05:20:  les grands éléments.
+00:05:21 - 00:05:22:  Ah oui, alors, il y a un premier élément
+00:05:22 - 00:05:23:  qui était la fin du projet.
+00:05:23 - 00:05:25:  En théorie, c'est juin 2025,
+00:05:25 - 00:05:27:  mais on a demandé un décalage.
+00:05:27 - 00:05:29:  Donc, on espère avoir la fin de l'année 2025
+00:05:29 - 00:05:31:  pour finir proprement le travail.
+00:05:31 - 00:05:35:  et puis, vous dire aussi que...
+00:05:35 - 00:05:37:  Enfin, l'équipe de recherche,
+00:05:37 - 00:05:39:  on envisage de continuer à travailler
+00:05:39 - 00:05:40:  sur le secteur.
 00:05:40 - 00:05:41:  Donc, on ne partira pas.
-00:05:41 - 00:05:45:  On a déjà un projet qui devrait nous permettre de le faire.
-00:05:45 - 00:05:48:  Et notamment, de maintenir les efforts de développement du modèle qu'on a fait.
-00:05:49 - 00:05:50:  Et idéalement, aussi, du groupe.
-00:05:50 - 00:05:51:  Même si ça...
-00:05:51 - 00:05:57:  Bon, la démarche PTGE, je pense, va prendre le relais aussi sur tout ce qui est plutôt groupe et discussion.
-00:05:58 - 00:05:59:  Même dans un cadre plus formel, forcément.
-00:06:01 - 00:06:02:  Les délivrables.
-00:06:02 - 00:06:04:  Donc, pour l'instant, on a produit deux délivrables.
-00:06:04 - 00:06:08:  Un, assez court sur la synthèse des travaux qui avaient déjà été faits.
-00:06:08 - 00:06:13:  Et un rapport, notamment, sur les données qui avaient été présentées lors d'un webinaire en novembre 2024.
-00:06:14 - 00:06:18:  Où vous trouverez l'ensemble des données qu'on mobilise pour le modèle.
-00:06:18 - 00:06:25:  Et ces données, donc, on souhaitait avec vous, en les partageant lors de ce webinaire, les valider.
-00:06:25 - 00:06:28:  En tout cas, donc, on a eu certains échanges sur des données.
-00:06:28 - 00:06:29:  Pas énormément.
-00:06:29 - 00:06:36:  En hydro, il y a notamment beaucoup de nouvelles données qui sont arrivées depuis ce moment-là.
-00:06:37 - 00:06:45:  Mais en tout cas, voilà, pour dire qu'il y a un rapport de données et un drive avec l'ensemble des données qu'on mobilise et qui sont à disposition.
-00:06:46 - 00:06:47:  On considère...
-00:06:47 - 00:06:48:  Je crois que je l'ai remis ailleurs.
-00:06:48 - 00:06:52:  Mais voilà, que ces données, maintenant, elles sont plus ou moins validées.
-00:06:52 - 00:07:00:  Ce qu'on fera aussi, voilà, pour laisser des traces, parce que nous, on a des délivrables en anglais à fournir pour le projet,
-00:07:00 - 00:07:01:  vu que c'est un projet financé par l'Europe.
-00:07:01 - 00:07:09:  Mais pour quand même laisser des choses écrites pour le territoire et pour les acteurs que vous êtes.
-00:07:09 - 00:07:15:  Donc on va finaliser une note sur le travail de prospective, donc vraiment la construction des quatre scénarios et leur quantification.
-00:07:16 - 00:07:24:  Sur les modèles, on avait parlé de faire des fiches synthétiques, des modèles pour vulgariser un petit peu les grandes hypothèses.
-00:07:24 - 00:07:27:  Donc c'est quelque chose qu'on n'a pas encore fait, qu'il faut qu'on fasse.
-00:07:29 - 00:07:33:  Et ensuite, sur les stratégies et les simulations qu'on n'a pas encore faites, mais qu'on fera.
-00:07:34 - 00:07:36:  Rappelez que tous les documents sont sur le site Internet.
-00:07:37 - 00:07:41:  Donc si vous voulez revoir des choses que vous avez eues dans des ateliers passés ou des comptes rendus,
-00:07:42 - 00:07:47:  tout est tracé, soit les PowerPoints et aussi bien les comptes rendus.
-00:07:47 - 00:07:54:  Donc juste un petit retour sur ce qu'on a fait depuis cette seconde série d'ateliers.
-00:07:54 - 00:07:59:  Donc vous avez remarqué qu'en 2024, on avait fait vraiment une pause côté terrain.
-00:08:00 - 00:08:05:  Et on est revenu avec un webinaire sur les données, sur la relance du chantier stratégie début novembre
-00:08:05 - 00:08:11:  et une série de trois ateliers qui s'est terminé ce matin sur les ateliers modélisation.
-00:08:11 - 00:08:19:  Donc pour détailler en détail les hypothèses et le fonctionnement des modèles hydrologiques, agronomiques et économiques.
-00:08:20 - 00:08:26:  Celui sur le modèle intégré n'a pas encore eu lieu parce qu'on a pris du retard sur la modélisation.
-00:08:27 - 00:08:29:  On vous le proposera dans les mois qui viennent.
-00:08:30 - 00:08:33:  Ainsi, on verra si on le couple.
-00:08:35 - 00:08:38:  Oui, non, il y aura un atelier, pardon, modélisation intégrée.
-00:08:38 - 00:08:42:  Aujourd'hui, cet après-midi, on est sur les stratégies.
-00:08:43 - 00:08:47:  Et puis ensuite, probablement un événement de fin de projet pour communiquer sur les résultats.
+00:05:41 - 00:05:42:  On a déjà un projet
+00:05:42 - 00:05:45:  qui devrait nous permettre de le faire
+00:05:45 - 00:05:46:  et notamment de maintenir
+00:05:46 - 00:05:47:  les efforts de développement
+00:05:47 - 00:05:48:  du modèle qu'on a fait
+00:05:48 - 00:05:50:  et idéalement aussi du groupe,
+00:05:50 - 00:05:51:  même si ça, bon,
+00:05:51 - 00:05:53:  la démarche PTGE, je pense,
+00:05:53 - 00:05:54:  va prendre le relais aussi
+00:05:54 - 00:05:56:  sur tout ce qui est plutôt groupe
+00:05:56 - 00:05:57:  et discussion,
+00:05:58 - 00:05:59:  même dans un cadre plus formel, forcément.
+00:05:59 - 00:06:02:  Les délivrables, donc, pour l'instant,
+00:06:02 - 00:06:04:  on a produit deux délivrables.
+00:06:04 - 00:06:06:  Un, assez court sur la synthèse
+00:06:06 - 00:06:08:  des travaux qui avaient déjà été faits
+00:06:08 - 00:06:09:  et un rapport, notamment,
+00:06:09 - 00:06:11:  sur les données qui avaient été présentées
+00:06:11 - 00:06:13:  lors d'un webinaire en novembre 2024
+00:06:13 - 00:06:16:  où vous trouverez l'ensemble des données
+00:06:16 - 00:06:18:  qu'on mobilise pour le modèle.
+00:06:18 - 00:06:19:  Et ces données, donc,
+00:06:19 - 00:06:20:  on souhaitait avec vous,
+00:06:20 - 00:06:22:  enfin, les partageant lors de ce webinaire,
+00:06:23 - 00:06:25:  les valider.
+00:06:25 - 00:06:28:  En tout cas, donc, on a eu certains échanges
+00:06:28 - 00:06:29:  sur des données, pas énormément,
+00:06:29 - 00:06:31:  en hydro, il y a notamment
+00:06:31 - 00:06:33:  beaucoup de nouvelles données
+00:06:33 - 00:06:34:  qui sont arrivées
+00:06:34 - 00:06:36:  depuis ce moment-là.
+00:06:37 - 00:06:38:  Mais en tout cas, voilà,
+00:06:38 - 00:06:39:  pour dire qu'il y a un rapport de données
+00:06:39 - 00:06:42:  et un drive avec l'ensemble des données
+00:06:42 - 00:06:44:  qu'on mobilise
+00:06:44 - 00:06:45:  et qui sont à disposition.
+00:06:46 - 00:06:47:  On considère,
+00:06:47 - 00:06:48:  je crois que je l'ai remis ailleurs,
+00:06:48 - 00:06:49:  mais voilà,
+00:06:49 - 00:06:50:  que ces données, maintenant,
+00:06:50 - 00:06:52:  elles sont plus ou moins validées.
+00:06:52 - 00:06:56:  ce qu'on fera aussi, voilà,
+00:06:56 - 00:06:57:  pour laisser des traces,
+00:06:57 - 00:06:58:  parce que nous, on a des délivrables en anglais
+00:06:58 - 00:07:00:  à fournir pour le projet,
+00:07:00 - 00:07:01:  vu que c'est un projet financé par l'Europe,
+00:07:02 - 00:07:05:  mais pour quand même laisser des choses écrites
+00:07:05 - 00:07:07:  pour le territoire
+00:07:07 - 00:07:09:  et pour les acteurs que vous êtes.
+00:07:09 - 00:07:11:  Donc, on va finaliser une note
+00:07:11 - 00:07:12:  sur le travail de prospective,
+00:07:12 - 00:07:14:  donc vraiment la construction des quatre scénarios
+00:07:14 - 00:07:15:  et leur quantification.
+00:07:15 - 00:07:17:  Sur les modèles,
+00:07:18 - 00:07:19:  on avait parlé de faire
+00:07:19 - 00:07:21:  des fiches synthétiques,
+00:07:21 - 00:07:23:  des modèles pour vulgariser
+00:07:23 - 00:07:25:  un petit peu les grandes hypothèses,
+00:07:25 - 00:07:26:  que c'est quelque chose
+00:07:26 - 00:07:27:  qu'on n'a pas encore fait,
+00:07:27 - 00:07:27:  qu'il faut qu'on fasse.
+00:07:29 - 00:07:29:  Et ensuite,
+00:07:30 - 00:07:31:  sur les stratégies et les simulations
+00:07:31 - 00:07:32:  qu'on n'a pas encore faites,
+00:07:32 - 00:07:33:  mais qu'on fera.
+00:07:34 - 00:07:35:  Rappelez que tous les documents
+00:07:35 - 00:07:36:  sont sur le site Internet,
+00:07:37 - 00:07:38:  donc si vous voulez revoir
+00:07:38 - 00:07:38:  des choses que vous avez eues
+00:07:38 - 00:07:40:  dans des ateliers passés
+00:07:40 - 00:07:41:  ou des comptes rendus,
+00:07:42 - 00:07:42:  tout est tracé,
+00:07:43 - 00:07:45:  soit les PowerPoints
+00:07:45 - 00:07:47:  et aussi bien les comptes rendus.
+00:07:49 - 00:07:50:  Donc, juste un petit retour
+00:07:50 - 00:07:52:  sur ce qu'on a fait
+00:07:52 - 00:07:54:  depuis cette seconde série d'ateliers.
+00:07:54 - 00:07:55:  Donc, vous avez remarqué
+00:07:55 - 00:07:56:  qu'en 2024,
+00:07:56 - 00:07:58:  on avait fait vraiment une pause
+00:07:58 - 00:07:59:  côté terrain
+00:07:59 - 00:08:01:  et on est revenus
+00:08:01 - 00:08:02:  avec un webinaire
+00:08:02 - 00:08:03:  sur les données,
+00:08:03 - 00:08:04:  sur la relance
+00:08:04 - 00:08:05:  du chantier stratégie
+00:08:05 - 00:08:05:  début novembre
+00:08:05 - 00:08:08:  et une série de trois ateliers
+00:08:08 - 00:08:09:  qui s'est terminé ce matin
+00:08:09 - 00:08:11:  sur les ateliers modélisation.
+00:08:12 - 00:08:13:  Donc, pour détailler en détail
+00:08:13 - 00:08:15:  les hypothèses
+00:08:15 - 00:08:17:  et le fonctionnement
+00:08:17 - 00:08:18:  des modèles hydrologiques,
+00:08:18 - 00:08:19:  agronomiques et économiques,
+00:08:21 - 00:08:22:  celui sur le modèle intégré
+00:08:22 - 00:08:24:  n'a pas encore eu lieu
+00:08:24 - 00:08:25:  parce qu'on a pris du retard
+00:08:25 - 00:08:26:  sur la modélisation,
+00:08:27 - 00:08:28:  qu'on vous le proposera
+00:08:28 - 00:08:29:  dans les mois qui viennent.
+00:08:30 - 00:08:31:  Ainsi, on verra
+00:08:31 - 00:08:33:  si on le couple.
+00:08:35 - 00:08:35:  Oui, non,
+00:08:35 - 00:08:37:  il y aura un atelier, pardon,
+00:08:37 - 00:08:38:  modélisation intégrée.
+00:08:39 - 00:08:40:  Aujourd'hui, cet après-midi,
+00:08:40 - 00:08:42:  donc on est sur les stratégies
+00:08:42 - 00:08:43:  et puis ensuite,
+00:08:44 - 00:08:45:  probablement un événement
+00:08:45 - 00:08:46:  de fin de projet
+00:08:46 - 00:08:47:  pour communiquer
+00:08:47 - 00:08:47:  sur les résultats.
 00:08:49 - 00:08:50:  Ça, je passe.
 00:08:50 - 00:08:52:  Ça, je passe aussi.
-00:08:55 - 00:08:56:  Ça, je vais quand même le mentionner.
-00:08:57 - 00:09:04:  C'est un résultat qu'on avait obtenu à l'issue du webinaire sur les stratégies
-00:09:04 - 00:09:11:  où on vous avait demandé, quand on évoque une stratégie, c'est pour répondre à un certain objectif.
-00:09:11 - 00:09:16:  Et finalement, dans Talanoa, vu qu'on est à l'interface, on est principalement guidé par les problématiques d'eau
-00:09:16 - 00:09:21:  et la question de la résorption d'un déficit entre quantité d'eau et demande en eau.
-00:09:22 - 00:09:25:  Malgré tout, on voit qu'on est sur des objets qui sont à l'interface de plusieurs questions.
-00:09:25 - 00:09:29:  Aussi, le maintien d'une agriculture, l'aménagement du territoire, etc.
-00:09:29 - 00:09:39:  Donc, on vous avait demandé de dénoncer différents objectifs qui pouvaient prévaloir à une stratégie,
-00:09:39 - 00:09:40:  enfin, ou des stratégies sur le territoire.
-00:09:41 - 00:09:46:  Et donc, c'était les différents objectifs qu'on avait produits avec vous,
-00:09:46 - 00:09:53:  grâce à l'atelier 2 et certains compléments lors du webinaire sur les stratégies.
-00:09:55 - 00:10:00:  Donc, notamment, certains objectifs qui relèvent plus du domaine de l'écologie, de l'eau,
-00:10:00 - 00:10:06:  comme minimiser la demande en eau, développer l'offre en eau, gérer les paysages et la sécurité incendie.
-00:10:06 - 00:10:11:  D'autres qui relèvent plus de l'économie agricole, comme le développement d'un potentiel nourricier,
-00:10:11 - 00:10:18:  la priorité viticole, enfin, la priorité à l'activité ou au maintien d'un patrimoine et d'une activité viticole,
+00:08:55 - 00:08:56:  Ça, je vais quand même
+00:08:56 - 00:08:56:  le mentionner.
+00:08:57 - 00:08:59:  C'est un résultat
+00:08:59 - 00:09:00:  qu'on avait obtenu
+00:09:00 - 00:09:03:  à l'issue du webinaire
+00:09:03 - 00:09:04:  sur les stratégies
+00:09:04 - 00:09:05:  où on vous avait demandé,
+00:09:06 - 00:09:07:  donc voilà,
+00:09:07 - 00:09:08:  quand on évoque une stratégie,
+00:09:08 - 00:09:10:  c'est pour répondre
+00:09:10 - 00:09:11:  à un certain objectif.
+00:09:11 - 00:09:12:  Et finalement,
+00:09:12 - 00:09:13:  dans Talanoa,
+00:09:13 - 00:09:14:  vu qu'on est à l'interface,
+00:09:14 - 00:09:15:  on est principalement guidé
+00:09:15 - 00:09:16:  par les problématiques d'eau
+00:09:16 - 00:09:18:  et la question de la résorption
+00:09:18 - 00:09:19:  d'un déficit
+00:09:19 - 00:09:20:  entre quantité d'eau
+00:09:20 - 00:09:21:  et demande en eau,
+00:09:22 - 00:09:22:  malgré tout,
+00:09:22 - 00:09:24:  on voit qu'on est sur des objets
+00:09:24 - 00:09:24:  qui sont à l'interface
+00:09:24 - 00:09:25:  de plusieurs questions.
+00:09:25 - 00:09:26:  Aussi, le maintien
+00:09:26 - 00:09:27:  d'une agriculture,
+00:09:28 - 00:09:29:  l'aménagement du territoire,
+00:09:29 - 00:09:29:  etc.
+00:09:29 - 00:09:30:  Donc, on vous avait demandé
+00:09:30 - 00:09:33:  de dénoncer
+00:09:33 - 00:09:35:  différents objectifs
+00:09:35 - 00:09:36:  qui pouvaient prévaloir
+00:09:36 - 00:09:39:  à une stratégie,
+00:09:39 - 00:09:39:  enfin,
+00:09:39 - 00:09:40:  ou des stratégies
+00:09:40 - 00:09:40:  sur le territoire.
+00:09:41 - 00:09:41:  Et donc,
+00:09:41 - 00:09:43:  c'était les différents objectifs
+00:09:43 - 00:09:45:  qu'on avait produits
+00:09:46 - 00:09:46:  avec vous,
+00:09:46 - 00:09:49:  grâce à l'atelier 2
+00:09:49 - 00:09:51:  et certains compléments
+00:09:51 - 00:09:52:  lors du webinaire
+00:09:52 - 00:09:53:  sur les stratégies.
+00:09:53 - 00:09:55:  Donc,
+00:09:55 - 00:09:56:  notamment,
+00:09:56 - 00:09:57:  certains objectifs
+00:09:57 - 00:09:57:  qui relèvent
+00:09:57 - 00:09:59:  plus du domaine
+00:09:59 - 00:10:00:  de l'écologie,
+00:10:00 - 00:10:00:  de l'eau,
+00:10:00 - 00:10:01:  comme minimiser
+00:10:01 - 00:10:02:  la demande en eau,
+00:10:02 - 00:10:03:  développer l'offre en eau,
+00:10:03 - 00:10:04:  gérer les paysages
+00:10:04 - 00:10:06:  et la sécurité incendie.
+00:10:06 - 00:10:07:  D'autres qui relèvent
+00:10:07 - 00:10:08:  plus de l'économie agricole,
+00:10:09 - 00:10:09:  comme le développement
+00:10:09 - 00:10:11:  d'un potentiel nourricier,
+00:10:12 - 00:10:13:  la priorité viticole,
+00:10:14 - 00:10:14:  enfin,
+00:10:14 - 00:10:15:  la priorité à l'activité
+00:10:15 - 00:10:16:  ou au maintien
+00:10:16 - 00:10:17:  d'un patrimoine
+00:10:17 - 00:10:18:  et d'une activité viticole,
 00:10:19 - 00:10:20:  la priorité...
