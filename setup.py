@@ -12,7 +12,7 @@ setup(
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[
-        # List your project dependencies here
+        whisper
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
